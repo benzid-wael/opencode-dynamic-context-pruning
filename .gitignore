@@ -11,8 +11,6 @@ dist/
 npm-debug.log*
 
 # Environment variables
-.env
-.env.local
 
 # OS files
 .DS_Store
@@ -46,3 +44,4 @@ docs/
 SCHEMA_NOTES.md
 
 repomix-output.xml
+config.bat
